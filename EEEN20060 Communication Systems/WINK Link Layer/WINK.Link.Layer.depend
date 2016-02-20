@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1455883402 source:c:\users\lab\documents\c-programs\wink link layer\linklayer1.c
+	<stdio.h>
+	<time.h>
+	"physical.h"
+	"linklayer.h"
+
+1455879617 c:\users\lab\documents\c-programs\wink link layer\physical.h
+
+1455884809 c:\users\lab\documents\c-programs\wink link layer\linklayer.h
+
+1455883629 source:c:\users\lab\documents\c-programs\wink link layer\lltest.c
+	<stdio.h>
+	<windows.h>
+	"linklayer.h"
+
+1455879617 source:c:\users\lab\documents\c-programs\wink link layer\sim-physical.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"physical.h"
+
+1455886124 source:c:\users\ilja\google drive\current modules\wink link layer\linklayer1.c
+	<stdio.h>
+	<time.h>
+	"physical.h"
+	"linklayer.h"
+
+1455886128 c:\users\ilja\google drive\current modules\wink link layer\physical.h
+
+1455886123 c:\users\ilja\google drive\current modules\wink link layer\linklayer.h
+
+1455886126 source:c:\users\ilja\google drive\current modules\wink link layer\lltest.c
+	<stdio.h>
+	<windows.h>
+	"linklayer.h"
+
+1455886132 source:c:\users\ilja\google drive\current modules\wink link layer\sim-physical.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"physical.h"
+
